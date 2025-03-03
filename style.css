@@ -45,3 +45,13 @@
     max-width: 960px;
   }
   
+
+/* pricing component */
+.pricing-header {
+  max-width: 700px;
+}
+
+
+.card {
+  max-width: 400px;
+}
